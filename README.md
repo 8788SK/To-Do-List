@@ -37,10 +37,11 @@ cd todo-list
 open index.html
 <br>
 <br>
-Usage
-1. Open the application in your web browser.
-2. Use the input field to add new tasks.
-3. Click on a task to mark it as completed.
-4. Use the edit and delete buttons to manage your tasks.
-5. Your tasks will be saved automatically and persist between sessions.
+Usage<br>
+
+1. Open the application in your web browser.<br>
+2. Use the input field to add new tasks.<br>
+3. Click on a task to mark it as completed.<br>
+4. Use the edit and delete buttons to manage your tasks.<br>
+5. Your tasks will be saved automatically and persist between sessions.<br>
 
