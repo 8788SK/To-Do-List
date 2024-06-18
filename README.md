@@ -18,7 +18,7 @@ This project utilizes the following technologies:
 3. JavaScript: Implements the core functionality of the application, enabling dynamic interactions and task management.
 <br>
 <br>
-Installation
+Installation<br>
 To run this project locally, follow these steps:
 
 1. Clone the repository: git clone https://github.com/8788SK/To-Do-List
