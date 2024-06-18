@@ -1,11 +1,17 @@
 Project Overview
+
 Welcome to the To Do List project! This application is a simple yet powerful tool designed to help you manage your daily tasks efficiently. With an intuitive interface and robust functionality, this To Do List application will assist you in keeping track of your tasks, ensuring nothing important is forgotten.
 
 Features
+
 Add Tasks: Easily add new tasks to your to-do list with a simple input field.
+
 Edit Tasks: Modify existing tasks to keep your list up-to-date.
+
 Delete Tasks: Remove tasks that are no longer needed.
+
 Mark as Completed: Mark tasks as completed to keep track of your progress.
+
 Persistent Storage: Your tasks are saved in local storage, so they persist even when you close the browser.
 
 
