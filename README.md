@@ -10,8 +10,11 @@ Persistent Storage: Your tasks are saved in local storage, so they persist even 
 
 
 This project utilizes the following technologies:
+
 HTML: Provides the basic structure of the application, ensuring a semantic and accessible framework.
+
 CSS: Adds styling to the application, making it visually appealing and user-friendly.
+
 JavaScript: Implements the core functionality of the application, enabling dynamic interactions and task management.
 
 Installation
