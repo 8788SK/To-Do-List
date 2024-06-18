@@ -1,6 +1,6 @@
 Project Overview
 
-Welcome to the To Do List project! This application is a simple yet powerful tool designed to help you manage your daily tasks efficiently. With an intuitive interface and robust functionality, this To Do List application will assist you in keeping track of your tasks, ensuring nothing important is forgotten.
+Welcome to the To Do List project! This application is a simple yet powerful tool designed to help you manage your daily tasks efficiently. With an intuitive interface and robust functionality, this To Do List application will assist you in keeping track of your tasks, ensuring nothing important is forgotten.<br>
 
 Features
 
@@ -13,9 +13,8 @@ Features
 4. Mark as Completed: Mark tasks as completed to keep track of your progress.
 
 5. Persistent Storage: Your tasks are saved in local storage, so they persist even when you close the browser.
-
-
-
+<br>
+<br>
 This project utilizes the following technologies:
 
 1. HTML: Provides the basic structure of the application, ensuring a semantic and accessible framework.
@@ -23,7 +22,8 @@ This project utilizes the following technologies:
 2. CSS: Adds styling to the application, making it visually appealing and user-friendly.
 
 3. JavaScript: Implements the core functionality of the application, enabling dynamic interactions and task management.
-
+<br>
+<br>
 Installation
 To run this project locally, follow these steps:
 
@@ -35,9 +35,8 @@ cd todo-list
 
 3. Open the 'index.html' file in your browser:
 open index.html
-
-
-
+<br>
+<br>
 Usage
 1. Open the application in your web browser.
 2. Use the input field to add new tasks.
