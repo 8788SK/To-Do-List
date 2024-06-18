@@ -20,12 +20,9 @@ This project utilizes the following technologies:
 <br>
 Installation<br>
 To run this project locally, follow these steps:<br>
-1.Clone the repository:
-  git clone https://github.com/8788SK/To-Do-List
-2.Navigate to the project directory:
-  cd todo-list
-3.Open the 'index.html' file in your browser:
-  open index.html
+1.Clone the repository: git clone https://github.com/8788SK/To-Do-List
+2.Navigate to the project directory: cd todo-list
+3.Open the 'index.html' file in your browser: open index.html
 <br>
 <br>
 Usage<br>
