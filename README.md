@@ -4,24 +4,25 @@ Welcome to the To Do List project! This application is a simple yet powerful too
 
 Features
 
-Add Tasks: Easily add new tasks to your to-do list with a simple input field.
+1. Add Tasks: Easily add new tasks to your to-do list with a simple input field.
 
-Edit Tasks: Modify existing tasks to keep your list up-to-date.
+2. Edit Tasks: Modify existing tasks to keep your list up-to-date.
 
-Delete Tasks: Remove tasks that are no longer needed.
+3. Delete Tasks: Remove tasks that are no longer needed.
 
-Mark as Completed: Mark tasks as completed to keep track of your progress.
+4. Mark as Completed: Mark tasks as completed to keep track of your progress.
 
-Persistent Storage: Your tasks are saved in local storage, so they persist even when you close the browser.
+5. Persistent Storage: Your tasks are saved in local storage, so they persist even when you close the browser.
+
 
 
 This project utilizes the following technologies:
 
-HTML: Provides the basic structure of the application, ensuring a semantic and accessible framework.
+1. HTML: Provides the basic structure of the application, ensuring a semantic and accessible framework.
 
-CSS: Adds styling to the application, making it visually appealing and user-friendly.
+2. CSS: Adds styling to the application, making it visually appealing and user-friendly.
 
-JavaScript: Implements the core functionality of the application, enabling dynamic interactions and task management.
+3. JavaScript: Implements the core functionality of the application, enabling dynamic interactions and task management.
 
 Installation
 To run this project locally, follow these steps:
